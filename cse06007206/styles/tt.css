@@ -1,0 +1,104 @@
+h3{
+	
+	
+	border: 1px solid black;
+}
+
+
+    }
+html{
+	text-align:center;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: skyblue;
+  padding: 0 2px 2px 2px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: black;
+  text-shadow: 3px 3px 1px #00539F;
+}
+h2{
+	text-align:center;
+	color:blue;
+	
+}
+form{
+	margin:20px auto;
+	width:320px;
+	color:blue;
+}
+input{
+	padding:10px;
+	font-size:inherit;
+}
+input[type="text"]{
+	display:block;
+	margin-bottom:25px;
+	width:100%;
+	border:2px solid blue;
+	background:lightgray;
+}
+input[type="password"]{
+	display:block;
+	margin-bottom:25px;
+	width:100%;
+	border:2px solid blue;
+	background:lightgray;
+	
+}
+input[type="email"]{
+	display:block;
+	margin-bottom:25px;
+	width:100%;
+	border:2px solid blue;
+	background:lightgray;
+}
+input[type="radio"]{
+	margin:0 8px 25px 18px;
+}
+input[type="radio"]:first-child{
+	margin-left:0;
+}
+input[type="submit"]{
+	hight:45px;
+	width:344px;
+	border:none;
+	background:black;
+	color:white;
+}
+input:focus{
+	background:white;
+}
+input[type="radio"]:checked+label{
+	font-size:18px;
+	font-weight:bold;
+}
+input[type="submit"]:focus{
+	hight:45px;
+	width:344px;
+	border:solid blue;
+	background:gray;
+	color:blue;
+}
+
+
+#about{
+	background-color: white;
+}
+#edu{
+	background-color:pink;
+}
+#m{
+	background-color:white;
+}
+#work{
+	background-color:pink;
+}
+#death{
+	background-color:white;
+}
