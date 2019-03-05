@@ -1,0 +1,26 @@
+body{
+	color:blue;
+	
+	  text-align:center;
+}
+h1 {
+  text-shadow: 5px 5px 5px red;
+}
+#x{
+	color:red;
+}
+#d{
+	color:red;
+}
+ul{
+	color:green;
+}
+#b{
+	color:black;
+}
+#c{
+	color:black;
+}
+#y{
+	color:#DC143C;
+}
